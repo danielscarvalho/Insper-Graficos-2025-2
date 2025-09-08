@@ -15,8 +15,9 @@ LAB:
    - ```git commit -m "First code"```
    - ```git push```
 1. Aluno: Fork do repositório
-3. Aluno: Clone do seu fork
-4. Aluno: Criar um ovo arquivo Jupyter notebook com gráfico: Grafico-<INICIAIS>.ipynb
+1. Aluno: Clone do seu fork
+1. Aluno: Criar um novo arquivo Jupyter notebook com gráfico: Grafico-<INICIAIS>.ipynb
+1. Aluno: Enviar o arquivo novo: ```git add <arquivoo>```, ```git commit -m "mensagem"```, ```git push```
 5. Aluno: Pedir um Pool Request
 6. Professor: Aceitar o Pool Request
 
